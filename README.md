@@ -3,6 +3,9 @@ Overview
 
 The Project Management Dashboard is a web application designed to streamline project management, task tracking, and team collaboration. It leverages modern frontend and backend technologies alongside AWS services to provide a scalable, secure, and cost-effective solution.
 
+![Screenshot 2025-02-02 201009](https://github.com/user-attachments/assets/64b97b32-ba13-4c23-8d7b-55925e179d12)
+
+
 Features
 - Project Management: Create and manage multiple projects efficiently.
 - Task Tracking: Assign tasks, set deadlines, and track progress.
